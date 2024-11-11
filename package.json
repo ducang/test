@@ -1,0 +1,12 @@
+{
+  "name": "sfu-scheduler",
+  "version": "1.0.0",
+  "description": " ",
+  "main": "src/server/server.js", 
+  "type": "module", 
+  "dependencies": {
+    "express": "^4.21.1",
+    "firebase": "^10.14.1",
+    "firebase-admin": "^12.7.0"
+  }
+}
